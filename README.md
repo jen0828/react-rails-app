@@ -1,6 +1,6 @@
 ## react-rails-app
 
-A simple 'hello world' app
+A simple 'hello world' react-rails app, using webpacker gem
 
 ### How to run:
 
